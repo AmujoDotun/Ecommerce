@@ -1,0 +1,50 @@
+
+
+body{
+padding-top: 50px;
+}
+#headerWrapper{
+   position: relative;
+   padding:0;
+   margin:0;
+   overflow:hidden;
+   height:600px;
+   background-image: url(../images/banner1.jpg);
+   background-repeat: no-repeat;
+   background-size: 100% 700px;
+   background-position: top center;
+   background-attachment: fixed;
+}
+
+#logotext{
+    position: absolute;
+    width: 100%;
+    height: 180px;
+    background-image: url(../images/fog-low.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 70% 180px;
+    top: 50px;
+    margin-top: -90px;
+
+}
+
+.img-thumb{
+    width:auto;
+    height:200px;
+}
+
+img.details{
+
+    width:auto;
+    margin: 0 auto;
+}
+
+.table-auto{
+     width:auto;
+     margin: 0 auto;
+}
+
+#footer{
+    margin-top:50px;
+}
